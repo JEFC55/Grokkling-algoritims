@@ -5,8 +5,6 @@ NOTAS(para estudo):
 
 -querySet
 
--@static
-
 -FIELD LOOKUPS
 
 -https://www.youtube.com/watch?v=5ds3RLT6y58 HttpsRequestDjango
