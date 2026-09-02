@@ -3,15 +3,15 @@ Um repositório para estudo dos Grokkling algoritims, para velocidade e otimiza�
 
 NOTAS(para estudo):
 
--querySet
+- querySet
 
--FIELD LOOKUPS
+- FIELD LOOKUPS
 
--https://www.youtube.com/watch?v=5ds3RLT6y58 HttpsRequestDjango
+- https://www.youtube.com/watch?v=5ds3RLT6y58 HttpsRequestDjango
 
--[Métodos Mágicos em Python: Guia Completo com Exemplos](https://etechpt.com/o-que-sao-metodos-magicos-em-python-e-como-usa-los/)
+- [Métodos Mágicos em Python: Guia Completo com Exemplos](https://etechpt.com/o-que-sao-metodos-magicos-em-python-e-como-usa-los/)
 
--Load balance
+- Load balance
 
 -busca hash 
 
